@@ -2,6 +2,4 @@
 
 AUTHORS: Alex
 
-```
-    https://alexbbianchi.github.io/flex-blog/
-```
+Link: https://alexbbianchi.github.io/flex-blog/
